@@ -124,13 +124,15 @@ Click here
 <br/>  
 
 ## :paperclip: Connect with me  
-<div align="center">
-<a href="https://github.com/villajul" target="_blank">
+<div align="center"> 
+  <a href="https://github.com/villajul" target="_blank">
 <img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="border-radius: 5px; margin: 5px" height="30" />
-</a>
-<a href="https://linkedin.com/in/julio-augusto-villacorta-48a292238" target="_blank">
+</a> 
+  <a href="https://linkedin.com/in/julio-augusto-villacorta-48a292238" target="_blank">
 <img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="border-radius: 5px; margin: 5px" height="30" />
 </a>  
+
+
 </div>  
   
 
