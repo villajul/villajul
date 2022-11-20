@@ -97,6 +97,9 @@
 </p>
 <p align="center" >
 <img src="https://github.com/villajul/villajul/blob/main/assets/Captura%20de%20pantalla%20(40).png" alt="tecnomech" height="150" >
+<img src="https://github.com/villajul/villajul/blob/main/assets/Captura%20de%20pantalla%20(41).png" alt="tecnomech" height="150" >
+<img src="https://github.com/villajul/villajul/blob/main/assets/Captura%20de%20pantalla%20(42).png" alt="tecnomech" height="150" >
+<img src="https://github.com/villajul/villajul/blob/main/assets/Captura%20de%20pantalla%20(43).png" alt="tecnomech" height="150" >
  </p>
  <div align="center" >
 <a href="https://6evi.duckdns.org:1337" target="_blank" >
