@@ -1,5 +1,5 @@
 <div align="center">
-<img src="https://github.com/villajul/villajul/blob/main/Hi%2C%20I'm%20Julio%20Villacorta!!!.gif" alt="hi" align="center" style="width: 100%" height="400" width="800" />
+<img src="https://github.com/villajul/villajul/blob/main/assets/Hi%2C%20I'm%20Julio%20Villacorta!!!.gif" alt="hi" align="center" style="width: 100%" height="400" width="800" />
 </div> 
 <br/>
 
@@ -90,8 +90,20 @@
 ## :pushpin: My proyects
 
 <h1 align="center"> TECNOMERCH </h1>
+<p align="center">
+<div style="margin:5px">
+<a><img src="https://github.com/villajul/villajul/blob/main/assets/Captura%20de%20pantalla%20(37).png" alt="tecnomech" height="150" ></a>
+</div>
+<div style="margin:5px">
+<a><img src="https://github.com/villajul/villajul/blob/main/assets/Captura%20de%20pantalla%20(38).png" alt="tecnomech" height="150" margin="20px"></a>
+</div>
+<div style="margin:5px">
+<a><img src="https://github.com/villajul/villajul/blob/main/assets/Captura%20de%20pantalla%20(39).png" alt="tecnomech" height="150" margin="20px"></a>
+</div>
+</p>
+<img src="https://github.com/villajul/villajul/blob/main/assets/Captura%20de%20pantalla%20(40).png" alt="tecnomech" height="150" >
 <a href="https://6evi.duckdns.org:1337" target="_blank">
-<img src="" alt="">
+Click here
 </a>
 
 ## :paperclip: Connect with me  
