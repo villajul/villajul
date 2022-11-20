@@ -88,7 +88,10 @@
 </table>
 
 ## :pushpin: My proyects
+
+<h1 align="center"> TECNOMERCH </h1>
 <a href="https://6evi.duckdns.org:1337" target="_blank">
+<img src="" alt="">
 </a>
 
 ## :paperclip: Connect with me  
