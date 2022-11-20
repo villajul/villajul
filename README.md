@@ -118,6 +118,11 @@ Click here
 <img src="https://github.com/villajul/villajul/blob/main/assets/Captura%20de%20pantalla%20(48).png" alt="tecnomech" height="150" >
  </p>
 
+## Github Stats  
+<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=villajul&show_icons=true&count_private=true&hide_border=true" align="center" /></div>  
+
+<br/>  
+
 ## :paperclip: Connect with me  
 <div align="center">
 <a href="https://github.com/villajul" target="_blank">
