@@ -87,6 +87,10 @@
 </tr>
 </table>
 
+## :pushpin: My proyects
+<a href="https://6evi.duckdns.org:1337" target="_blank">
+</a>
+
 ## :paperclip: Connect with me  
 <div align="center">
 <a href="https://github.com/villajul" target="_blank">
