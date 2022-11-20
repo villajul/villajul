@@ -90,21 +90,19 @@
 ## :pushpin: My proyects
 
 <h1 align="center"> TECNOMERCH </h1>
-<p align="center">
-<div style="margin:5px">
+<p align="center" >
 <a><img src="https://github.com/villajul/villajul/blob/main/assets/Captura%20de%20pantalla%20(37).png" alt="tecnomech" height="150" ></a>
-</div>
-<div style="margin:5px">
-<a><img src="https://github.com/villajul/villajul/blob/main/assets/Captura%20de%20pantalla%20(38).png" alt="tecnomech" height="150" margin="20px"></a>
-</div>
-<div style="margin:5px">
-<a><img src="https://github.com/villajul/villajul/blob/main/assets/Captura%20de%20pantalla%20(39).png" alt="tecnomech" height="150" margin="20px"></a>
-</div>
+<a><img src="https://github.com/villajul/villajul/blob/main/assets/Captura%20de%20pantalla%20(38).png" alt="tecnomech" height="150" ></a>
+<a><img src="https://github.com/villajul/villajul/blob/main/assets/Captura%20de%20pantalla%20(39).png" alt="tecnomech" height="150" ></a>
 </p>
+<p align="center" >
 <img src="https://github.com/villajul/villajul/blob/main/assets/Captura%20de%20pantalla%20(40).png" alt="tecnomech" height="150" >
-<a href="https://6evi.duckdns.org:1337" target="_blank">
+ </p>
+ <div align="center" >
+<a href="https://6evi.duckdns.org:1337" target="_blank" >
 Click here
 </a>
+ </div>
 
 ## :paperclip: Connect with me  
 <div align="center">
