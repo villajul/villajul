@@ -1,5 +1,5 @@
 <div align="center">
-<img src="https://www.canva.com/design/DAFSfyel4vk/5CCfCtbe7DCqeG1zO4TY5g/view?utm_content=DAFSfyel4vk&utm_campaign=designshare&utm_medium=link&utm_source=homepage_design_menu" align="center" style="width: 100%" />
+<img src="https://github.com/villajul/villajul/blob/main/Hi%2C%20I'm%20Julio%20Villacorta!!!.gif" align="center" style="width: 100%" height="500" width="1000" />
 </div> 
 <br/>
 
