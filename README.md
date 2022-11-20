@@ -1,5 +1,5 @@
 <div align="center">
-<img src="https://github.com/villajul/villajul/blob/main/Hi%2C%20I'm%20Julio%20Villacorta!!!.gif" align="center" style="width: 100%" height="500" width="1000" />
+<img src="https://github.com/villajul/villajul/blob/main/Hi%2C%20I'm%20Julio%20Villacorta!!!.gif" alt="hi" align="center" style="width: 100%" height="400" width="800" />
 </div> 
 <br/>
 
@@ -101,12 +101,3 @@
 <br/>  
 
 
-## Github Stats  
-<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=villajul&show_icons=true&count_private=true&hide_border=true" align="center" /></div>  
-
-<br/>  
-
-
-<p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=villajul&show_icons=true&locale=en&layout=compact" alt="villajul" /></p>
-
-<p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=villajul&" alt="villajul" /></p>
