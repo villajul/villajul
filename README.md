@@ -131,7 +131,9 @@ Click here
   <a href="https://linkedin.com/in/julio-augusto-villacorta-48a292238" target="_blank">
 <img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="border-radius: 5px; margin: 5px" height="30" />
 </a>  
-
+ <a href="https://villajul.github.io" target="_blank">
+<img src="https://img.shields.io/badge/-Portfolio-blue" alt="portfolio" style="border-radius: 5px; margin: 5px" height="30"/>
+</a>  
 
 </div>  
   
